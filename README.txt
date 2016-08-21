@@ -1,3 +1,11 @@
+This is an archive of minetest_game before all mod licenses were changed to 
+be more restrictive in the name of offended sensibilities and (more reasonably)
+additional legal protection.
+
+All LGPL code has been removed, as this will not be affected in this license change,
+only WTFPL code.
+All assets have been left, as these are under a seperate license to the code.
+
 Minetest Game [minetest_game]
 =============================
 The main subgame for the Minetest engine
