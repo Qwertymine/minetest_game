@@ -24,7 +24,8 @@ minetest.register_alias("flowers:flower_dandelion_yellow", "flowers:dandelion_ye
 minetest.register_alias("flowers:flower_geranium", "flowers:geranium")
 minetest.register_alias("flowers:flower_viola", "flowers:viola")
 minetest.register_alias("flowers:flower_dandelion_white", "flowers:dandelion_white")
-
+minetest.register_alias("mushroom:brown_natural", "flowers:mushroom_brown")
+minetest.register_alias("mushroom:red_natural", "flowers:mushroom_red")
 
 -- Flower registration
 
